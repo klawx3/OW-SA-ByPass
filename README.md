@@ -7,6 +7,7 @@ Hecho por Kenshi (Discord: Kenshi#2608) para la comunidad de Discord Overwatch C
 | Fecha | Versión | Descripción Cambio
 | --- | --- | --- |
 | 21/07/2018 | 1.0 | Primera versión |
+| 22/07/2018 | 1.1 | Agregado nuevos íconos + cambio de nombre acceso directos generados |
 
 ## Descripción
 
@@ -23,7 +24,7 @@ Contiene una carpeta con 3 archivos: un ".bat", un ".txt" y un ".ps1" los cuales
 
 4. El programa requerirá que le indiques en donde tienes instalado tu archivo **Overwatch.exe** (el cual por defecto puede ser encontrado en "C:\Program Files (x86)\Overwatch\"). El programa solo aceptará el archivo que posea ese nombre y esa extensión.
 
-5. Una vez seleccionado, el programa arrojará el mensaje **"Cambios creados con exito!"**, lo cual nos indica que el programa ha sido ejecutado exitosamente, creando en tu escritorio 2 accesos directos: **OW - Deshabilitar Bloqueo IPs** y **OW - Deshabilitar Bloqueo IPs**
+5. Una vez seleccionado, el programa arrojará el mensaje **"Cambios creados con exito!"**, lo cual nos indica que el programa ha sido ejecutado exitosamente, creando en tu escritorio 2 accesos directos: **OW - Habilitar NA** y **OW - Habilitar LAS**
 
 6. Por defecto, el programa te dejará instalada la regla de firewall que bloquea las IPs de los servidores sudamericanos de overwatch, y para deshabilitarlo, ejecuta el acceso directo **OW - Deshabilitar Bloqueo IPs**.
 
@@ -33,6 +34,10 @@ Si posees algún problema con el funcionamiento de este programa, puedes manifes
 
 ## Agradecimientos
 
-Agradecimientos dirigidos al usuario MarcoUC por proveer los rangos de IPs necesarios para que el programa pueda funcionar adecuadamente, y por ayudar a la comunidad proveyendo una guía de como bloquear los puertos antes de que este programa fuera creado.
+Agradecimientos dirigidos a:
+
+**MarcoUC:** por proveer los rangos de IPs necesarios para que el programa pueda funcionar adecuadamente, y por ayudar a la comunidad proveyendo una guía de como bloquear los puertos antes de que este programa fuera creado.
+
+**Ryuji:** Agregar íconos personalizados al programa
 
 ### Esta página será actualizada constantemente con las nuevas IPs de Overwatch de los servidores sudamericanos.
