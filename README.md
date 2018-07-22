@@ -6,8 +6,9 @@ Hecho por Kenshi (Discord: Kenshi#2608) para la comunidad de Discord Overwatch C
 ## Control de Versiones
 | Fecha | Versión | Descripción Cambio
 | --- | --- | --- |
-| 21/07/2018 | 1.0 | Primera versión |
 | 22/07/2018 | 1.1 | Agregado nuevos íconos + cambio de nombre acceso directos generados |
+| 21/07/2018 | 1.0 | Primera versión |
+
 
 ## Descripción
 
