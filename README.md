@@ -26,7 +26,7 @@ Contiene una carpeta con 3 archivos: un ".bat", un ".txt" y un ".ps1" los cuales
 
 5. Una vez seleccionado, el programa arrojará el mensaje **"Cambios creados con exito!"**, lo cual nos indica que el programa ha sido ejecutado exitosamente, creando en tu escritorio 2 accesos directos: **OW - Habilitar NA** y **OW - Habilitar LAS**
 
-6. Por defecto, el programa te dejará instalada la regla de firewall que bloquea las IPs de los servidores sudamericanos de overwatch, y para deshabilitarlo, ejecuta el acceso directo **OW - Deshabilitar Bloqueo IPs**.
+6. Por defecto, el programa te dejará instalada la regla de firewall que bloquea las IPs de los servidores sudamericanos de overwatch, y para deshabilitarlo, ejecuta el acceso directo **OW - Habilitar LAS**.
 
 ## Contacto
 
