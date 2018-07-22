@@ -53,8 +53,17 @@ function Create-ShorcutWithArg($shorcut_name, $ss){
     $current_path = $(Get-Location).Path
     $Shortcut.Arguments = [string]$ss
     $Shortcut.TargetPath = $current_path + "\" + $bat_name_file
+    if ($ss -like "true" -or $ss -eq "0"){
+    $Shortcut.IconLocation = $current_path + "\" + "icon\_na.ico"
+    }
+    if ($ss -like "true" -or $ss -eq "1"){
+    $Shortcut.IconLocation = $current_path + "\" + "icon\_las.ico"
+    }
     $Shortcut.Save()
 }
+
+
+
 
 #main
 
@@ -77,8 +86,8 @@ if($args.Length -eq 0){ # without args - create firewall rule
         exit
     }
     Write-Output "Creando accesos directos para habilitar y desabilitar la regla de firewall"
-    Create-ShorcutWithArg "OW - Deshabilitar Bloqueo IPs" "0"
-    Create-ShorcutWithArg "OW - Habilitar Bloqueo IPs" "1"
+    Create-ShorcutWithArg "OW - Habilitar NA" "0"
+    Create-ShorcutWithArg "OW - Habilitar LAS" "1"
     Write-Output "Cambios creados con exito!"
 } else { #with args
     $enable = $args[0]
