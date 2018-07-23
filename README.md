@@ -1,11 +1,12 @@
 # OW-SA-ByPass 
-### Versión Actual: 1.1
+### Versión Actual: 1.2
 ### Última Actualización: 22/07/2018
 Hecho por Kenshi (Discord: Kenshi#2608) para la comunidad de Discord Overwatch Chile. Puedes entrar al discord de la comunidad de Overwatch Chile a través de [Este link](https://discord.gg/6Y68tTU).
 
 ## Control de Versiones
 | Fecha | Versión | Descripción Cambio
 | --- | --- | --- |
+| 22/07/2018 | 1.2 | Arreglado bug con los accesos directos |
 | 22/07/2018 | 1.1 | Agregado nuevos íconos + cambio de nombre acceso directos generados |
 | 21/07/2018 | 1.0 | Primera versión |
 
