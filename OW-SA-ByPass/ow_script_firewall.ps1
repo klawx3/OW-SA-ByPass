@@ -1,4 +1,4 @@
-﻿$v = "1.0.0"
+﻿$v = "1.3.0"
 $ips_file = "ips.txt"
 $bat_name_file = "crear_regla_firewall.bat"
 $firewall_rule_name = "Overwatch Bloqueo Sur-America (by Kenshi) v$v"
@@ -93,10 +93,10 @@ if($args.Length -eq 0){ # without args - create firewall rule
     $enable = $args[0]
     if ($enable -like "true" -or $enable -eq "1") { #enable firewall rule
         Enable-NetFirewallRule -DisplayName $firewall_rule_name -ErrorAction Stop
-        Write-Output "Regla de firewall ACTIVADA - Habilitando a servidores de OW definidos en $ips_file"
+        Write-Output "Servidores SA bloqueados. OW conectará a NA."
     } elseif ($enable -like "false" -or $enable -eq "0") { #disable firewall rule
         Disable-NetFirewallRule -DisplayName $firewall_rule_name -ErrorAction Stop
-        Write-Output "Regla de firewall DESACTIVADA - Bloqueando a servidores de OW definidos en $ips_file"
+        Write-Output "Servidores SA desbloqueados. OW conectará a SA."
     } else { #error
         
     }
