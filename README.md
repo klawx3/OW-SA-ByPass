@@ -16,8 +16,9 @@ Hecho por Kenshi (Discord: Kenshi#2608) para la comunidad de Discord Overwatch C
 
 **OW-SA-ByPass** es un programa que te permite bloquear/desbloquear las IPs de los servidores sudamericanos de overwatch de manera rápida, para poder jugar en NA.
 
+Imagen de referencia del progama
+
 ![alt text](https://i.imgur.com/lKvUkWF.png "Imagen de referencia del progama")
-Esta es una imagen de referencia del programa y como habilita/deshabilitar las reglas de firewall con facilidad
 
 Contiene una carpeta con 3 archivos: un ".bat", un ".txt" y un ".ps1" los cuales son necesarios para el correcto funcionamiento de este programa.
 
