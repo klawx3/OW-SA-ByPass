@@ -1,4 +1,4 @@
-﻿$v = "1.3.0"
+﻿$v = "1.5.0"
 $ips_file = "ips.txt"
 $bat_name_file = "crear_regla_firewall.bat"
 $firewall_rule_name = "Overwatch Bloqueo Sur-America (by Kenshi) v$v"
