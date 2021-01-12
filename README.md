@@ -6,6 +6,7 @@ Hecho por Kenshi (Discord: Kenshi#2608) para la comunidad de Discord Overwatch C
 ## Control de Versiones
 | Fecha | Versión | Descripción Cambio
 | --- | --- | --- |
+| 07/07/2019 | 1.5 | Removidos Ips de Argentina y Chile, Agregadas nuevas IPs de Brasil |
 | 07/07/2019 | 1.4 | Agregada la nueva IP Argentina (soluciona los errores de conexión a NA)|
 | 27/07/2018 | 1.3 | Cambio de algunos textos para hacerlos más entendibles |
 | 22/07/2018 | 1.2 | Arreglado bug con los accesos directos |
