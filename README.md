@@ -1,12 +1,12 @@
 # OW-SA-ByPass 
-### Versión Actual: 1.4
-### Última Actualización: 07/07/2019
+### Versión Actual: 1.5
+### Última Actualización: 11/01/2020
 Hecho por Kenshi (Discord: Kenshi#2608) para la comunidad de Discord Overwatch Chile. Puedes entrar al discord de la comunidad de Overwatch Chile a través de [Este link](https://discord.gg/6Y68tTU).
 
 ## Control de Versiones
 | Fecha | Versión | Descripción Cambio
 | --- | --- | --- |
-| 11/01/2019 | 1.5 | Removidos Ips de Argentina y Chile, Agregadas nuevas IPs de Brasil |
+| 11/01/2020 | 1.5 | Removidos Ips de Argentina y Chile, Agregadas nuevas IPs de Brasil |
 | 07/07/2019 | 1.4 | Agregada la nueva IP Argentina (soluciona los errores de conexión a NA)|
 | 27/07/2018 | 1.3 | Cambio de algunos textos para hacerlos más entendibles |
 | 22/07/2018 | 1.2 | Arreglado bug con los accesos directos |
